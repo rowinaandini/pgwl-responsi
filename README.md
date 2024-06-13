@@ -1,4 +1,4 @@
-![image](https://github.com/rowinaandini/pgwl-responsi/assets/142878370/fff61252-778d-4d84-a679-2fb0535b6280)# GeotaTransUGMTayogama   
+# GeotaTransUGMTayogama   
 GeoTa : Let's Strolling UGM With Tayogama
 
 <h2>Nama Produk: GeoTa : Let's Strolling UGM With Tayogama</h2>
@@ -23,8 +23,7 @@ GeoTa : Let's Strolling UGM With Tayogama merupakan portal untuk menjelajahi Uni
 <h2>Tangkapan layar komponen penting produk:</h2>
 <ul>
     <li>Dashboard</li>
-    <img src="https://raw.githubusercontent.com/rowinaandini/pgwl-responsi/main/public/storage/images/d1.png" width="500">
-    ![Uploading storage/images/d2.png](storage/images/d2.png)
+    ![image](https://github.com/rowinaandini/pgwl-responsi/assets/142878370/fff61252-778d-4d84-a679-2fb0535b6280)
     <br><img src="storage/images/d2.png" width="500"><br>
     <br><img src="storage/images/d3.png" width="500"><br>
     <li>CRUD</li>
