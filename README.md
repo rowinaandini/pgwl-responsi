@@ -23,7 +23,7 @@ GeoTa : Let's Strolling UGM With Tayogama merupakan portal untuk menjelajahi Uni
 <h2>Tangkapan layar komponen penting produk:</h2>
 <ul>
     <li>Dashboard</li>
-    ![d1](/images/d2.png)
+    <img src="{{ asset('storage/images/d2.png') }}" width="500">
     <br><img src="storage/images/d2.png" width="500"><br>
     <br><img src="storage/images/d3.png" width="500"><br>
     <li>CRUD</li>
