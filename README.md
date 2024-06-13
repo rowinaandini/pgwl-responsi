@@ -23,7 +23,7 @@ GeoTa : Let's Strolling UGM With Tayogama merupakan portal untuk menjelajahi Uni
 <h2>Tangkapan layar komponen penting produk:</h2>
 <ul>
     <li>Dashboard</li>
-    ![image](https://github/rowinaandini/pgwl-responsi/blob/main/public/storage/images/d1.png)
+    <img src="https://raw.githubusercontent.com/rowinaandini/pgwl-responsi/main/public/storage/images/d1.png" width="500">
     <br><img src="storage/images/d2.png" width="500"><br>
     <br><img src="storage/images/d3.png" width="500"><br>
     <li>CRUD</li>
