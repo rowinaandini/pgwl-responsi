@@ -183,12 +183,12 @@
     <script src="https://unpkg.com/terraformer@1.0.7/terraformer.js"></script>
     <script src="https://unpkg.com/terraformer-wkt-parser@1.1.2/terraformer-wkt-parser.js"></script>
     <script>
-        var map = L.map('map').setView([-7.0735335, 109.4288471, 7.98],
-            7); // Koordinat Indonesia: [-2.5489, 118.0149], Zoom level: 7
+        var map = L.map('map').setView([-7.7679702, 110.3734729, 14.93],
+            15); // Koordinat Indonesia: [-2.5489, 118.0149], Zoom level: 7
 
         // Basemap
         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
+            maxZoom: 20,
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 

@@ -4,7 +4,7 @@
     <div class="container mt-4">
         <div class="card shadow">
             <div class="card-header">
-                <h3>Data Polyline</h3>
+                <h3>Data Jalur Rute Bus</h3>
             </div>
             <div class ="card-body">
                 <table class="table table-bordered table-striped" id="example">

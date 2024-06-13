@@ -4,7 +4,7 @@
     <div class="container mt-4">
         <div class="card shadow">
             <div class="card-header">
-                <h3>Data Polygon</h3>
+                <h3>Data Kawasan Yang di Lalui Bus</h3>
             </div>
             <div class ="card-body">
                 <table class="table table-bordered table-striped" id="example">

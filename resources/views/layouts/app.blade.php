@@ -27,26 +27,26 @@
     <!-- Custom CSS -->
     <style>
         .custom-header {
-            background-color: #DEECFF; /* Warna biru */
+            background-color: #F7F7F7; /* Warna biru */
             text-align: center;
         }
         .custom-header h2 {
             color: #1D1919; /* Warna teks putih */
         }
         .custom-body {
-            background-color: #DEECFF; /* Warna biru untuk seluruh body */
-            color: #f1f5f9; /* Warna teks putih untuk kontras */
+            background-color: #EEEEEE; /* Warna biru untuk seluruh body */
+            color: #929AAB; /* Warna teks putih untuk kontras */
         }
         .custom-container {
-            background-color: #DEECFF; /* Warna biru untuk container */
+            background-color: #EEEEEE; /* Warna biru untuk container */
             color: #1D1919; /* Warna teks putih */
         }
         .custom-card {
-            background-color: #f1f5f9; /* Warna biru untuk card */
+            background-color: #929AAB; /* Warna biru untuk card */
             color: #1D1919; /* Warna teks putih */
         }
         .custom-card-header {
-            background-color: #f1f5f9; /* Warna biru untuk card header */
+            background-color: #929AAB; /* Warna biru untuk card header */
             color: #1D1919; /* Warna teks putih */
         }
     </style>

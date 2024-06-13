@@ -9,7 +9,7 @@ class MapController extends Controller
 public function index()
 {
     $data = [
-        "title" => "Petaku",
+        "title" => "Peta 𝔾𝕖𝕠𝕋𝕒",
     ];
 
     if (auth()->check()) {

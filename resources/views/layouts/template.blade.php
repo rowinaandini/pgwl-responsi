@@ -42,9 +42,9 @@
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false"><i class="fa-solid fa-table"></i> Tabel</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="{{ route('table-point') }}">Tabel Point</a></li>
-                            <li><a class="dropdown-item" href="{{ route('table-polyline') }}">Tabel Polyline</a></li>
-                            <li><a class="dropdown-item" href="{{ route('table-polygon') }}">Tabel Polygon</a></li>
+                            <li><a class="dropdown-item" href="{{ route('table-point') }}">Tabel Titik Pemberhentian Bus</a></li>
+                            <li><a class="dropdown-item" href="{{ route('table-polyline') }}">Tabel Jalur Rute Bus</a></li>
+                            <li><a class="dropdown-item" href="{{ route('table-polygon') }}">Tabel Kawasan Bus</a></li>
                         </ul>
                     <li class="nav-item">
                         <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
@@ -84,9 +84,19 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <p>Nama : Rowina Andini</p>
-                    <p>NIM : 22/492503/SV/20523</p>
-                    <p>Kelas: B</p>
+                     <h5 class="mb-3"><b>Sedikit Tentang 𝔾𝕖𝕠𝕋𝕒</b></h5>
+                            <p>Selamat datang di GeoTa, portal untuk menjelajahi Universitas Gadjah Mada dengan Tayogama!
+                                Nikmati pengalaman unik menjelajahi kampus biru kita menggunakan bus trans UGM yang ramah
+                                lingkungan. Di sini, Anda dapat menemukan informasi, jadwal perjalanan, rute bus, dan berbagai
+                                cerita menarik dari perjalanan di dalam kampus. Mari bersama-sama menjelajahi keindahan dan
+                                kekayaan UGM dengan nyaman dan menyenangkan bersama GeoTa dan Tayogama!</p>
+                </div>
+                <div class="position-relative mt-auto">
+                    <div class="courses-overlay">
+                        <a class="btn  border-2" style="background-color: #F2EFEA;"
+                            href="https://www.youtube.com/watch?v=n-88YUNG0w0">Read
+                            More</a>
+                    </div>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -94,7 +104,6 @@
             </div>
         </div>
     </div>
-
     @yield('content')
 
     <!-- Leaflet JS -->
