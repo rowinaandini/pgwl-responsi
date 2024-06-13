@@ -1,4 +1,4 @@
-![image](https://github.com/rowinaandini/pgwl-responsi/assets/142878370/3955eadb-acea-49e0-8498-a965b680ed4a)# GeotaTransUGMTayogama   
+# GeotaTransUGMTayogama   
 GeoTa : Let's Strolling UGM With Tayogama
 
 <h2>Nama Produk: GeoTa : Let's Strolling UGM With Tayogama</h2>
