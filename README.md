@@ -1,4 +1,4 @@
-# GeotaTransUGMTayogama   
+![image](https://github.com/rowinaandini/pgwl-responsi/assets/142878370/3955eadb-acea-49e0-8498-a965b680ed4a)# GeotaTransUGMTayogama   
 GeoTa : Let's Strolling UGM With Tayogama
 
 <h2>Nama Produk: GeoTa : Let's Strolling UGM With Tayogama</h2>
@@ -22,11 +22,13 @@ GeoTa : Let's Strolling UGM With Tayogama merupakan portal untuk menjelajahi Uni
 
 <h2>Tangkapan layar komponen penting produk:</h2>
 <ul>
-<li>Login</li><br><img src = "assets/img/gambar/landingpage.png" width = "500"><br>
-<br><img src = "assets/img/gambar/landingpage2.png" width = "500"><br>
-<li>CRUD</li><br><img src = "assets/img/gambar/webgis.png" width = "500"><br>
-<li>Upload dan Display Imag</li><br><img src = "assets/img/gambar/tabel.png" width = "500"><br>
-<li>Dashboard</li><br><img src = "assets/img/gambar/input.png" width = "500"><br>
-<li>Tabel Data</li><br><img src = "assets/img/gambar/diagram.png" width = "500"><br>
-<li> Integrasi dengan QGIS dan Geoserver</li><br><img src = "assets/img/gambar/diagram.png" width = "500"><br>
+<li>Dashboard</li><br><img src = "storage/images/d1.png" width = "500"><br>
+<br><img src = "storage/images/d2.png" width = "500"><br>
+<br><img src = "storage/images/d3.png" width = "500"><br>
+<li>CRUD</li><br><img src = "storage/images/c1.png" width = "500">
+<img src = "storage/images/c2.png" width = "500"><br>
+<img src = "storage/images/c3.png" width = "500"><br>
+<li>Upload dan Display Imag</li><br><img src = "storage/images/hc1.png" width = "500"><br><img src = "storage/images/hc2.png" width = "500"><br><img src = "storage/images/hc3.png" width = "500"><br><img src = "storage/images/hc4.png" width = "500"><br>
+<li>Tabel Data</li><br><img src = "<img src = "storage/images/td1.png" width = "500"><br>" width = "500"><br><img src = "<img src = "storage/images/td1.png" width = "500"><br>" width = "500"><br>
+<li> Integrasi dengan QGIS dan Geoserver</li><br><img src = "storage/images/q9.png" width = "500"><br>
 </ul>
