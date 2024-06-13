@@ -12,13 +12,15 @@
 
                 <!-- Navigation Links -->
                 <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
+                    <i class="fa-solid fa-display"></i> <!-- Menambahkan ikon display -->
                     <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
-                        {{ __('Dashboard') }}
+                        {{ __('DASHBOARD') }}
                     </x-nav-link>
                 </div>
+
                 <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
                     <x-nav-link :href="route('index')" :>
-                        {{ __('Map') }}
+                        {{ __('MAP') }}
                     </x-nav-link>
                 </div>
             </div>
